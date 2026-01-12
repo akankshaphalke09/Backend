@@ -1,0 +1,17 @@
+const cars = new Array("Saab", "Volvo", "BMW");
+console.log(cars);
+const car= ["Saab", "Volvo", "BMW"];
+console.log(car);   
+let ele = cars[0];
+console.log(ele);
+cars[0] = "Toyota";
+console.log(cars);
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+let resfruits = fruits.toString();
+console.log(resfruits);
+let length = fruits.length;
+console.log(length);
+fruits.pop();
+console.log(fruits);
+fruits.push("Kiwi");        
+console.log(fruits);
