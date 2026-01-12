@@ -1,0 +1,19 @@
+{
+  "name": "day7",
+  "version": "1.0.0",
+  "main": "pract.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "figlet": "^1.9.4",
+    "inquirer": "^13.2.0",
+    "nanospinner": "^1.2.2"
+  }
+}
