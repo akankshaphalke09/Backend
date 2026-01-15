@@ -1,0 +1,10 @@
+1768502590333 is a GET request for /
+1768502601916 is a GET request for /
+1768502611973 is a GET request for /
+1768503964393 is a GET request for /
+1768503974664 is a GET request for /userRoutes
+1768504042170 is a GET request for /routes/userRoutes
+1768504110023 is a GET request for /users
+1768504182184 is a GET request for /users/profile
+1768504226161 is a GET request for /users/profile
+1768504242918 is a GET request for /users/profile
